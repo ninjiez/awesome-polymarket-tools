@@ -29,6 +29,7 @@ Platforms for data analysis, visualization, and market research.
 
 - **MarketPulse Analytics** — Real-time dashboards for tracking market trends, liquidity, and sentiment.  
 - **Prediction Insights** — Research-focused analytics with expert commentary and reports.  
+- **[polyfees](https://polyfees.com/)** — Fees a Polymarket wallet paid in the last 30 days, to the cent, next to the month's result as the Polymarket profile shows it and the same bets without fees. Free, no login.  
 - Whale tracking dashboards  
 - Probability and volatility analysis tools  
 - Historical data explorers  
